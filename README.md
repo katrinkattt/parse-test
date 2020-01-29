@@ -1,2 +1,4 @@
 # parse-test
-not working yet
+
+parser for avito in preparation
+(in private repository)
